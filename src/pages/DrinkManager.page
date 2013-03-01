@@ -1,0 +1,9 @@
+<apex:page standardController="Drink__c" recordSetVar="drinks">
+
+<apex:pageBlock >
+    <apex:pageblockTable value="{!drinks}" var="d">
+        <apex:column value="{!d.Name}"/>
+        <apex:column value="{!d.Type__c}"/>
+    </apex:pageblockTable>
+</apex:pageBlock>
+</apex:page>
