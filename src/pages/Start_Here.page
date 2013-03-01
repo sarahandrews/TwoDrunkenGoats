@@ -1,5 +1,5 @@
 <apex:page showHeader="true" standardStylesheets="false" sidebar="true" controller="startHereController" action="{!initPageAction}" >
-Hi Again!
+Hi from Dev2!
   <apex:stylesheet value="http://www.apexdevnet.com/ootbe/starthere/ootbe.css"/>
     <div id="ootbe_container">
     <div id="bannerlanding"><a href="{!BannerURL}">
