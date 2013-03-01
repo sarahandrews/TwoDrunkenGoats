@@ -1,6 +1,7 @@
 <apex:page showHeader="true" standardStylesheets="false" sidebar="true" controller="startHereController" action="{!initPageAction}" >
 Dev1 was here!
   <apex:stylesheet value="http://www.apexdevnet.com/ootbe/starthere/ootbe.css"/>
+  Some more text here from Dev1.
     <div id="ootbe_container">
     <div id="bannerlanding"><a href="{!BannerURL}">
     <img src="{!BannerImageURL}" alt="" /></a></div>
