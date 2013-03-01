@@ -1,0 +1,13 @@
+#Thu Feb 28 17:07:27 EST 2013
+eclipse.preferences.version=1
+endpointApiVersion=27.0
+endpointEnvironment=Production/Developer Edition
+endpointServer=www.salesforce.com
+httpsProtocol=true
+ideVersion=27.0
+keependpoint=false
+metadataFormatVersion=27.0
+namespacePrefix=
+packageName=unpackaged
+readTimeout=400
+username=dgdev1@diabsolut.com
