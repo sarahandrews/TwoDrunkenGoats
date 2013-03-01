@@ -1,5 +1,7 @@
 <apex:page standardController="Drink__c" recordSetVar="drinks">
 
+<apex:sectionHeader title="Drinks"/>
+
 <apex:pageBlock >
     <apex:pageblockTable value="{!drinks}" var="d">
         <apex:column value="{!d.Name}"/>
